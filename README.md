@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehaltrio&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaltrio&layout=compact)](https://github.com/nehaltrio/github-readme-stats)
